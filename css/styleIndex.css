@@ -76,7 +76,12 @@ body {
 
 }
 
-
+.hero-content {
+    text-align: start;
+    padding: 10rem 2rem;
+    color: black;
+    font-weight: 200;
+}
 
 
 
